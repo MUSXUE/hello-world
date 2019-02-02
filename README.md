@@ -1,2 +1,5 @@
 # hello-world
-Just an exercise.
+
+Hi! Guys!
+The game has great power~
+
